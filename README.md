@@ -1,7 +1,4 @@
-# Emotion-Recognition-System
 # Mutimodal Emotion Recognition System
-
-**Course:**  AIT301 - Advanced Machine Learning (AML)
 
 ## Project Overview
 
