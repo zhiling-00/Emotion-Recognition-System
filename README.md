@@ -1,4 +1,4 @@
-# Mutimodal Emotion Recognition System
+# Multimodal Emotion Recognition System
 
 ## Project Overview
 
